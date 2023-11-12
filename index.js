@@ -9,8 +9,7 @@ function celsiusToFahrenheit(degreesCelsius) {
     // The equation to convert from celsius to fahrenheit is
     //  (<degrees in celsius> * 9/5) + 32 = <degrees in fahrenheit>
     let degreesFahrenheit = (degreesCelsius * 9) / 5 + 32;
-
-    return degreesFarenheit;
+    return degreesFahrenheit;
 }
 
 function getFirstStringFromArray(list) {
